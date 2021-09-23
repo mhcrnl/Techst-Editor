@@ -7,7 +7,7 @@ If you are on linux you can you the following commands to make it an executable 
 
 1. chmod +x techst_editor.py
 2. cd ./
-3. ./techst_editor.py
+3. ./techst_editor_2.0.py
 
 If you are on Windows there should be lots of resources for figuring out how to do it.
 
@@ -16,3 +16,15 @@ If there are any issues please report it
 Happy Coding
 
 -BeetJuice101
+
+
+Update Notice
+
+Techst Editor 2.0
+
+New Features:
+
+1. Auto Window Sizing
+2. Zoom In And Out
+3. Search For Word Feature
+4. Save Txt Files
