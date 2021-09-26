@@ -17,6 +17,9 @@ Happy Coding
 
 -BeetJuice101
 
+Website Notice
+
+I am currently working on making a website for Techst Editor.  As soon as I finish I will release it and then begin working on update 3.0.  This will be a major update so it will not come out for a few weeks.  I will let yall know when the website is released.
 
 Update Notice
 
