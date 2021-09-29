@@ -19,7 +19,7 @@ Happy Coding
 
 Website Notice
 
-The Techst Editor website has been launched.  The domain is techsteditor.com.  Their are a few more things to do with the website then we will start working on Techst Editor 3.0
+The Techst Editor website has been launched.  The domain is techsteditor.com.  Their are a few more things to do with the website then we will start working on Techst Editor 3.0.  We also now have a way of contact,  you can email us at contact@techsteditor.com.
 
 Update Notice
 
