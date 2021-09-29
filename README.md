@@ -19,7 +19,7 @@ Happy Coding
 
 Website Notice
 
-I am currently working on making a website for Techst Editor.  As soon as I finish I will release it and then begin working on update 3.0.  This will be a major update so it will not come out for a few weeks.  I will let yall know when the website is released.
+The Techst Editor website has been launched.  The domain is techsteditor.com.  Their are a few more things to do with the website then we will start working on Techst Editor 3.0
 
 Update Notice
 
