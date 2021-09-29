@@ -1,5 +1,7 @@
 # Techst-Editor
 
+techsteditor.com
+
 Open source text editor made in python.  A truly versitile text editor, you can even mod it to your liking.  There is even a dark mode.
 
 
