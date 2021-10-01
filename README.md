@@ -21,7 +21,7 @@ Happy Coding
 
 Website Notice
 
-The Techst Editor website has been launched.  The domain is techsteditor.com.  Their are a few more things to do with the website then we will start working on Techst Editor 3.0.  We also now have a way of contact,  you can email us at contact@techsteditor.com.
+The Techst Editor website has been launched.  The domain is techsteditor.com.  We now have a way of contact, you can email us at contact@techsteditor.com.
 
 Update Notice
 
@@ -33,3 +33,8 @@ New Features:
 2. Zoom In And Out
 3. Search For Word Feature
 4. Save Txt Files
+
+
+Update 3.0
+
+If you have any ideas or suggestions for Techst Editor's third update please let us know.  Our email is contact@techsteditor.com
