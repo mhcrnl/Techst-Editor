@@ -11,8 +11,10 @@ If you are on a Linux based software here are the stes to set up Techst Editor
 2. Go to terminal and type the following command
 3. chmod +x techst_editor.py
 4. Once you have typed that command move the file to your desired location (I recommend your desktop screen)
+Or you can click the link below
 
-If you are on Windows I am working on the steps for it
+If you are on Windows click the link below and follow the instructions
+https://techsteditor.com/index.php/download-techst-editor/
 
 If there are any issues please report it
 
