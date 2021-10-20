@@ -34,6 +34,4 @@ New Features:
 
 Update 3.0
 
-Fun Fact:  Update 3.0 is going to have either over 2,000 lines of code or just under 2,000 lines of code.  It's goingto be a big update.
-
-If you have any ideas or suggestions for Techst Editor's third update please let us know.  Our email is contact@techsteditor.com
+We are almost finished with the update.  Just a few GUI things to be done and then we will release it.  Also if you have any update ideas please let us know.  Our email is contact@techsteditor.com
