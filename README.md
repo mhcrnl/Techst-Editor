@@ -30,7 +30,4 @@ New Features:
 2. Word Search is now more effective
 3. GUI Changes
 
-
-Update 3.0
-
-We are almost finished with the update.  Just a few GUI things to be done and then we will release it.  Also if you have any update ideas please let us know.  Our email is contact@techsteditor.com
+I'm working on a Youtube video explaining how to use the API.
