@@ -30,4 +30,4 @@ New Features:
 2. Word Search is now more effective
 3. GUI Changes
 
-I'm working on a Youtube video explaining how to use the API.
+Video on how to use API: https://youtu.be/m1gULbl-8s8
