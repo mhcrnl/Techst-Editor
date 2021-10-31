@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/76746475/139599468-5f728a15-ddfc-4212-9a9a-4ab83de171e6.jpeg)
 
-Website: https://techsteditor.com/
+Website: [techsteditor.com](https://techsteditor.com/)
 
 Techst Editor is an open source text editor. Techst Editor is a project made by a developer that goes by the name BeetJuice101. BeetJuice wanted a quality text editor that was made in python so that even the newest of programmers could make their own modifications to Techst Editor. Techst Editor is updated frequently and if there are any bugs in the update they will be fixed rapidly. Many of the Techst Editor features include (1) light mode and dark mode (2) text sizing settings (3) many new features coming in future updates (4) an API form customizing the GUI.  I would love if anyone would like to join in this project.  Having more contributors would be fantastic!  If you like this project please consider leaving a star so it will reach more people and grow even more.
 
